@@ -18,6 +18,23 @@ Tahmini süre: 1 saat 50 dk – 2 saat 15 dk. *(Yarışın resmi kesme (cut-off)
 ## Kuvvet rutini (K) – 20 dk, evde
 3 tur: 12 squat (sandalyeye otur-kalk) · 8+8 geri lunge · 12 kalça köprüsü · 30 sn plank · 15 baldır kaldırma · 10+10 tek ayak denge (30 sn)
 
+## Günlük rutine göre zamanlama
+**Hafta içi (18:15'te evdesin):**
+- **16:30 (işte):** Küçük ara öğün: muz + yoğurt/ayran ya da bir avuç kuruyemiş. Akşam aç koşmamak için şart.
+- **18:30-19:15:** Antrenman. Eve gel, üstünü değiştir, oturmadan çık. Yemeği antrenmandan sonra yap.
+- **19:30-20:00:** Akşam yemeği (protein + karbonhidrat).
+- **22:30:** Yatak. 6:10'da kalktığın için 7,5 saat uyku hedefi.
+
+**Geç geldiğin günler (20:00-21:00):** O gün antrenman yapma. Dinlenme ya da kuvvet günüyle yer değiştir (kuvvet 20 dk, evde yapılabilir). Geç saatte yorucu koşu uykuyu bozar.
+Haftada en fazla 2 geç gün olursa program aksamaz. Geç günlerini önceden biliyorsan bana söyle, haftayı ona göre düzenleyeyim.
+
+**Hafta sonu:** Uzun koşular (17 ve 24 Ekim) sabah 8-10 arası. Yarış da sabah olduğu için vücudun bu saate alışsın.
+
+**Sabah kahvaltısı (6:10-6:40):** Hızlı ve doyurucu: 2 haşlanmış yumurta (akşamdan hazırla) + peynir + ekmek veya yulaf + süt + muz.
+**Öğle:** İş yerinde mümkünse ızgara/sebze + pilav/bulgur + ayran; kızartma ve hamur işini azalt.
+
+**Karanlıkta koşu:** Ekim sonunda 18:30'da hava kararıyor. Işıklı, düz bir güzergâh seç (sahil yolu, park, site içi). Açık renk ya da reflektörlü giy, kulaklık sesini kısık tut. Güzergâh yoksa koş-yürüyü 400 m'lik bir alanda turlayarak yap.
+
 ## Günlük plan
 
 | Gün | Tarih | Antrenman | Not |
