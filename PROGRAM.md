@@ -44,7 +44,7 @@ Haftada en fazla 2 geç gün olursa program aksamaz. Geç günlerini önceden bi
 | 2 | Sal 13 Eki | Geç gün: dinlenme + yatmadan önce 10 dk esneme | Eve 20-21 arası dönüş. Koşu ayakkabısı al ya da siparişini ver |
 | 3 | Çar 14 Eki | **İlk koşu:** 30 dk: 6×(1 dk koşu / 2 dk yürüyüş) | 18:30'da çık |
 | 4 | Per 15 Eki | K + 20 dk yürüyüş | |
-| 5 | Cum 16 Eki | 35 dk: 8×(1,5 dk koşu / 1,5 dk yürüyüş) | Çarşamba zorlandıysan 1/2 ile tekrarla |
+| 5 | Cum 16 Eki | 35 dk: 8×(1,5 dk koşu / 1,5 dk yürüyüş) | Çarşamba zorlandıysan 1/2 ile tekrarla. Bacakların ağrılıysa bu günü dinlenmeye çevir, cumartesi daha önemli |
 | 6 | Cmt 17 Eki | **Uzun:** 45-50 dk, 2/2 koş-yürü (~5 km), sabah 8-10 | Haftanın en önemli günü |
 | 7 | Paz 18 Eki | 30-40 dk hafif yürüyüş + mobilite | |
 | 8 | Pzt 19 Eki | 40 dk: 3/2 koş-yürü | |
