@@ -20,6 +20,7 @@ Tahmini süre: 1 saat 50 dk – 2 saat 15 dk. *(Yarışın resmi kesme (cut-off)
 
 ## Günlük rutine göre zamanlama
 **Hafta içi (18:15'te evdesin):**
+- **12:00:** Öğle yemeği (asıl karbonhidrat öğünü: pilav/bulgur/makarna + protein).
 - **16:30 (işte):** Küçük ara öğün: muz + yoğurt/ayran ya da bir avuç kuruyemiş. Akşam aç koşmamak için şart.
 - **18:30-19:15:** Antrenman. Eve gel, üstünü değiştir, oturmadan çık. Yemeği antrenmandan sonra yap.
 - **19:30-20:00:** Akşam yemeği (protein + karbonhidrat).
@@ -31,7 +32,7 @@ Haftada en fazla 2 geç gün olursa program aksamaz. Geç günlerini önceden bi
 **Hafta sonu:** Uzun koşular (17 ve 24 Ekim) sabah 8-10 arası. Yarış da sabah olduğu için vücudun bu saate alışsın.
 
 **Sabah kahvaltısı (6:10-6:40):** Hızlı ve doyurucu: 2 haşlanmış yumurta (akşamdan hazırla) + peynir + ekmek veya yulaf + süt + muz.
-**Öğle:** İş yerinde mümkünse ızgara/sebze + pilav/bulgur + ayran; kızartma ve hamur işini azalt.
+**Öğle (12:00):** İş yerinde mümkünse ızgara/sebze + pilav/bulgur + ayran; kızartma ve hamur işini azalt.
 
 **Karanlıkta koşu:** Ekim sonunda 18:30'da hava kararıyor. Işıklı, düz bir güzergâh seç (sahil yolu, park, site içi). Açık renk ya da reflektörlü giy, kulaklık sesini kısık tut. Güzergâh yoksa koş-yürüyü 400 m'lik bir alanda turlayarak yap.
 
@@ -39,12 +40,12 @@ Haftada en fazla 2 geç gün olursa program aksamaz. Geç günlerini önceden bi
 
 | Gün | Tarih | Antrenman | Not |
 |---|---|---|---|
-| 1 | Pzt 12 Eki | 30 dk: 6×(1 dk koşu / 2 dk yürüyüş) | Başlangıç kilosunu ve bel ölçünü not et |
-| 2 | Sal 13 Eki | 30 dk tempolu yürüyüş + 10 dk esneme | Aktif dinlenme |
-| 3 | Çar 14 Eki | 35 dk: 8×(1,5 dk koşu / 1,5 dk yürüyüş) | |
+| 1 | Pzt 12 Eki | Başlangıç ölçümleri | Kilo ve bel ölçüsü (sabah, aç karnına) |
+| 2 | Sal 13 Eki | Geç gün: dinlenme + yatmadan önce 10 dk esneme | Eve 20-21 arası dönüş. Koşu ayakkabısı al ya da siparişini ver |
+| 3 | Çar 14 Eki | **İlk koşu:** 30 dk: 6×(1 dk koşu / 2 dk yürüyüş) | 18:30'da çık |
 | 4 | Per 15 Eki | K + 20 dk yürüyüş | |
-| 5 | Cum 16 Eki | Dinlenme | 8 saat uyku |
-| 6 | Cmt 17 Eki | **Uzun:** 50 dk, 2/2 koş-yürü (~5 km) | Haftanın en önemli günü |
+| 5 | Cum 16 Eki | 35 dk: 8×(1,5 dk koşu / 1,5 dk yürüyüş) | Çarşamba zorlandıysan 1/2 ile tekrarla |
+| 6 | Cmt 17 Eki | **Uzun:** 45-50 dk, 2/2 koş-yürü (~5 km), sabah 8-10 | Haftanın en önemli günü |
 | 7 | Paz 18 Eki | 30-40 dk hafif yürüyüş + mobilite | |
 | 8 | Pzt 19 Eki | 40 dk: 3/2 koş-yürü | |
 | 9 | Sal 20 Eki | K + 20 dk yürüyüş | |
